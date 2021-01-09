@@ -1,2 +1,2 @@
 # online-shopping
-full-stack, java
+full-stack, java, spring MVC, 
