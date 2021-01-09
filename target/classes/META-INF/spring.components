@@ -1,0 +1,9 @@
+edu.neu.final2.controller.AdminController=org.springframework.stereotype.Component
+edu.neu.final2.controller.CartController=org.springframework.stereotype.Component
+edu.neu.final2.controller.CustomerController=org.springframework.stereotype.Component
+edu.neu.final2.controller.LoginController=org.springframework.stereotype.Component
+edu.neu.final2.controller.OrderController=org.springframework.stereotype.Component
+edu.neu.final2.controller.ReviewController=org.springframework.stereotype.Component
+edu.neu.final2.controller.SellerController=org.springframework.stereotype.Component
+edu.neu.final2.controller.ShoppingController=org.springframework.stereotype.Component
+edu.neu.final2.controller.StoreController=org.springframework.stereotype.Component
